@@ -1,0 +1,7 @@
+== README
+
+This apps is just a porting from railscasts episode on jquery file upload directo to amazon S3
+
+ported because I couldn't make the original works
+
+* Ruby version 2.1.4 with Rails 4.1.7
